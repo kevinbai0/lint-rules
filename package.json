@@ -4,7 +4,7 @@
   "description": "Linting rules",
   "scripts": {},
   "keywords": [],
-  "author": "",
+  "author": "Kevin Bai <kevin.c.bai0@gmail.com> (https://www.kevinbai.design/)",
   "license": "ISC",
   "devDependencies": {
     "@changesets/cli": "^2.14.1",

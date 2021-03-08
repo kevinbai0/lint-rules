@@ -37,9 +37,9 @@ node_modules
 {
   "scripts": {
     "lint": "eslint . --fix"
-    // or eslint src --fix
   }
 }
+// or eslint src --fix
 ```
 
 ### Profiles
