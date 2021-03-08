@@ -6,9 +6,11 @@
   "keywords": [],
   "author": "Kevin Bai <kevin.c.bai0@gmail.com> (https://www.kevinbai.design/)",
   "license": "ISC",
+  "dependencies": {
+    "@rushstack/eslint-config": "^2.3.2"
+  },
   "devDependencies": {
     "@changesets/cli": "^2.14.1",
-    "@rushstack/eslint-config": "^2.3.2",
     "eslint": "^7.21.0",
     "eslint-config-prettier": "^8.1.0",
     "eslint-import-resolver-typescript": "^2.4.0",
